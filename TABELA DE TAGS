@@ -1,0 +1,21 @@
+O <!DOCTYPE html> declaração define que este documento é um documento HTML5
+O <html> elemento é o elemento raiz de um HTML página
+O <head> elemento contém meta informações sobre o Página HTML
+O <title> elemento especifica um título para o Página HTML (que é mostrada na barra de título do navegador ou na guia da página)
+O <body> elemento define o corpo do documento, e é um recipiente para todos os conteúdos visíveis, tais como cabeçalhos, parágrafos, imagens, hiperlinks, tabelas, listas, etc.
+O <h1> elemento define um grande título
+O <p >elemento define um parágrafo
+Os links HTML são definidos com o <a>
+
+
+    <b>- Texto ousado
+    <strong>- Texto importante
+    <i>- Texto em itálico
+    <em>- Texto enfatizado
+    <mark>- Texto marcado
+    <small>- Texto menor
+    <del>- Texto apagado
+    <ins>- Texto inserido
+    <sub>- Texto do subscrito
+    <sup>- Texto sobrescrito
+
